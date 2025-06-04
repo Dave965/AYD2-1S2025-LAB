@@ -17,5 +17,5 @@ Se necesita un sistema que permita que los estudiantes de la universidad puedan 
 ### Caso de uso de alto nivel
 ![Caso de uso de alto nivel](./imgs/CDU_Alto_Nivel.jpg)
 ### Primera descomposición
-![Primera descomposición](./imgs/Primera_Descomposicion.jpg)
+![Primera descomposición](./imgs/Primera_descomposicion.jpg)
 
